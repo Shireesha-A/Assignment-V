@@ -1,0 +1,25 @@
+.book{
+    width:20%;
+    height:60%;
+    background-color:yellow;
+    display: inline-block;
+    margin:20px;
+    padding:10px;
+    color:darkgreen;
+    
+}
+.form-element{
+    width:15%;
+    height:50%;
+    background-color: lightgrey;
+    margin:15px;
+    padding:10px;
+    color:darkblue;
+    text-align: justify;
+}
+.b1{
+    text-decoration: underline;
+}
+.App{
+    background-color: lightcyan;
+}
