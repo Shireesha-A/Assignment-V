@@ -1,0 +1,59 @@
+.meta1{
+    background-color: white;
+    margin:0px auto;
+    text-align: justify;
+    height:70px;
+}
+.container{
+    background-color: white;
+    margin:0px auto;
+    text-align: justify;
+    font-size:15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top:0px;
+    
+}
+.p12{
+    padding-left:20px ;
+}
+
+#a1{
+    color:red;
+    background:pink;
+}
+#a2,#a3{
+    color:purple;
+}
+.tab1{
+    
+    padding-top:90px;
+    height:620px;
+}
+.meta2{
+    height:5px;
+}
+.tab2{
+    height:250px;
+}
+.meta3{
+    height:300px;
+}
+.meta4{
+    height:400px;
+}
+.tab3{
+    height:320px;
+}
+.meta5{
+    height:300px;
+}
+.tab4{
+    height:1300px;
+}
+#pa ,#co, #so{
+    background-color:#ddd;
+}
+.img{
+    height:10%;
+    width:5%;
+}

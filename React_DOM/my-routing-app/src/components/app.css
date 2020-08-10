@@ -1,0 +1,138 @@
+
+a{
+    color:white;   
+}
+a:hover{
+    color:white;
+}
+
+.footer{
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+    padding:10px 20px 20px 20px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
+}
+#p1{
+    font-size:24px;
+    padding-left:60px;
+}
+#p2{
+    font-size: 45px;
+}
+.cp3{
+    font-size:20px;
+}
+.cont1{
+    color:brown;
+    padding-top: 50px;;
+    padding-left:-20px;
+}
+#p3{
+    padding-top: 30px;;
+    font-size:75px;
+}
+#p4{
+    font-size:40px;   
+}
+.cont2{
+    padding-top:70px;
+    color:brown;
+    font-size:45px;
+    font-weight: bold;
+    text-align: left;
+}
+.image1{
+    padding-left:140px;
+    height:30%;
+    width:40%;
+    padding-bottom:50px;
+}
+.cont4{
+    padding-top:50px;
+    padding-bottom: 70px;;
+}
+.cp{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
+.ch2{
+    font-weight: bold;
+    font-size:35px;
+    color:brown;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+.footer{
+    color:white;
+}
+.navbar-dark {
+    background-color: #9575CD;
+}
+.container {
+    height:100%;
+    width:80%;
+}
+.foot1{
+    background-color:grey;
+    margin:0px auto;
+    padding-top:15px;
+    padding-bottom:130px;
+}
+#hf1{
+    padding-top:10px;
+    padding-bottom:20px;
+    font-size:45px;
+}
+ul{
+    padding-top:10px;
+    padding-bottom:20px;
+}
+.pf1{
+    padding-top:15px;
+    padding-bottom:10px;
+    font-size:27px;
+}
+.form1{
+    align-items: center;
+    max-width:50%;
+    font-size:20px;
+    padding-top:20px;
+    padding-bottom:170px;
+    padding-left:170px;
+    padding-right:10px;
+}
+.contf1{
+  
+    margin-bottom:50px;
+}
+.foot2{
+    background-color: lightslategray;
+    color:white;
+}
+.copy {
+    margin-top:10px;
+    background-color:white;
+    color:grey;
+}
+.nav1{
+    padding-left:560px;
+}
+.foote1{
+    background-color: white;
+    color:black;
+    font-weight:bold;
+    font-size:45px;
+    margin-top:15px;
+    margin-bottom: 20px;;
+}
+.icons{
+    margin-top:10px;
+}
